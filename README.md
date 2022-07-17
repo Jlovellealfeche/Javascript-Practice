@@ -1,3 +1,3 @@
 # Javascript Practice
- Guided Projects in Javascript 
+ Javascript Coding Practice on Guided Projects 
  Taught by FreeCodeCamp.  Johnsmilga
